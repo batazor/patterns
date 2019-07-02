@@ -1,8 +1,6 @@
 # Roadmap
 
 - Creational patterns
-  - [x] Singleton
-  - [ ] Builder
   - [ ] Factory method
   - [ ] Abstract Factory
   - [ ] Prototype
