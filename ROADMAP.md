@@ -1,11 +1,11 @@
 # Roadmap
 
 - Creational patterns
+  - [x] Singleton
+  - [ ] Builder
   - [ ] Factory method
   - [ ] Abstract Factory
-  - [ ] Builder
   - [ ] Prototype
-  - [ ] Singleton
   - [ ] Lazy initialization
   - [ ] Object Pool
 - Structural patterns
