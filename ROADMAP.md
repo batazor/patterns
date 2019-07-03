@@ -1,7 +1,6 @@
 # Roadmap
 
 - Creational patterns
-  - [ ] Factory method
   - [ ] Abstract Factory
   - [ ] Prototype
   - [ ] Lazy initialization

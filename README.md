@@ -9,3 +9,4 @@
 - Creational patterns
   - [x] Singleton
   - [x] Builder
+  - [x] Factory method
