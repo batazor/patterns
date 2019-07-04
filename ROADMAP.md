@@ -1,7 +1,6 @@
 # Roadmap
 
 - Creational patterns
-  - [ ] Abstract Factory
   - [ ] Prototype
   - [ ] Lazy initialization
   - [ ] Object Pool
@@ -60,6 +59,13 @@
   - [ ] Functional Options
 - Anti-Patterns
   - [ ] Cascading Failures
+- Domain-Driven-Design
+  - [ ] Repository patterns
+  - [ ] Specification patterns
+  - [ ] Service Layer
+- DataBase
+  - [ ] Active Record
+  - [ ] Data Mapper
 - Cloud-Native patterns
   - [ ] Anti-corruption layer
   - [ ] Gateway routing
