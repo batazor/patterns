@@ -1,7 +1,6 @@
 # Roadmap
 
 - Creational patterns
-  - [ ] Prototype
   - [ ] Lazy initialization
   - [ ] Object Pool
 - Structural patterns

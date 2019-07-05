@@ -11,3 +11,4 @@
   - [x] Builder
   - [x] Factory method
   - [x] Abstract Factory
+  - [x] Prototype
