@@ -16,3 +16,4 @@
   - [x] Composite
   - [x] Adapter
   - [x] Bridge
+  - [x] Proxy

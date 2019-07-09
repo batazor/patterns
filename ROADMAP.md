@@ -7,7 +7,6 @@
   - [ ] Decorator
   - [ ] Facade
   - [ ] Flyweight
-  - [ ] Proxy
 - Behavioral patterns
   - [ ] Chain od Responsibility
   - [ ] Command
