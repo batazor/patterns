@@ -4,9 +4,7 @@
   - [ ] Lazy initialization
   - [ ] Object Pool
 - Structural patterns
-  - [ ] Adapter
   - [ ] Bridge
-  - [ ] Composite
   - [ ] Decorator
   - [ ] Facade
   - [ ] Flyweight

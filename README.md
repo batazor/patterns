@@ -12,3 +12,6 @@
   - [x] Factory method
   - [x] Abstract Factory
   - [x] Prototype
+- Structural patterns
+  - [x] Composite
+  - [x] Adapter
