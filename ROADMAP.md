@@ -4,7 +4,6 @@
   - [ ] Lazy initialization
   - [ ] Object Pool
 - Structural patterns
-  - [ ] Decorator
   - [ ] Facade
   - [ ] Flyweight
 - Behavioral patterns

@@ -13,6 +13,7 @@
   - [x] Adapter
   - [x] Bridge
   - [x] Proxy
+  - [x] Decorator
 
 ### Link
 
