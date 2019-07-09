@@ -15,3 +15,4 @@
 - Structural patterns
   - [x] Composite
   - [x] Adapter
+  - [x] Bridge
