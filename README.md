@@ -1,9 +1,5 @@
 # patterns
 
-### Link
-
-+ Book [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
-
 ### Pattern
 
 - Creational patterns
@@ -17,3 +13,7 @@
   - [x] Adapter
   - [x] Bridge
   - [x] Proxy
+
+### Link
+
+- Book [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
