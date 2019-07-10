@@ -14,6 +14,7 @@
   - [x] Bridge
   - [x] Proxy
   - [x] Decorator
+  - [x] Facade
 
 ### Link
 
