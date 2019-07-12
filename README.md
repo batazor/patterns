@@ -16,6 +16,8 @@
   - [x] Decorator
   - [x] Facade
   - [x] Flyweight
+- Behavioral patterns
+  - [x] Strategy
 
 ### Link
 

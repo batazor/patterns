@@ -12,7 +12,6 @@
   - [ ] Memento
   - [ ] Observer
   - [ ] State
-  - [ ] Strategy
   - [ ] Template method
   - [ ] Visitor
   - [ ] Interpreter
