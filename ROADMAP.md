@@ -4,7 +4,6 @@
   - [ ] Lazy initialization
   - [ ] Object Pool
 - Structural patterns
-  - [ ] Flyweight
 - Behavioral patterns
   - [ ] Chain od Responsibility
   - [ ] Command

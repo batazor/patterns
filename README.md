@@ -15,6 +15,7 @@
   - [x] Proxy
   - [x] Decorator
   - [x] Facade
+  - [x] Flyweight
 
 ### Link
 
