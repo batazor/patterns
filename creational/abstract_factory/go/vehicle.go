@@ -15,8 +15,8 @@ type VehicleFactory interface {
 }
 
 const (
-	CarFactoryType       = iota
-	MotorbikeFactoryType = iota
+	CarFactoryType = iota
+	MotorbikeFactoryType
 )
 
 func BuildFactory(f int) (VehicleFactory, error) {

@@ -11,7 +11,7 @@ type Car interface {
 
 const (
 	LuxuryCarType = iota
-	FamilyCarType = iota
+	FamilyCarType
 )
 
 type CarFactory struct{}

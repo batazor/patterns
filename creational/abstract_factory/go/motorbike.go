@@ -10,8 +10,8 @@ type Motorbike interface {
 }
 
 const (
-	SportMotorbikeType  = iota
-	CruiseMotorbikeType = iota
+	SportMotorbikeType = iota
+	CruiseMotorbikeType
 )
 
 type MotorbikeFactory struct{}

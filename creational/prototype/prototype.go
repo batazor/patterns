@@ -11,8 +11,8 @@ type ShirtCloner interface {
 
 const (
 	White = iota
-	Black = iota
-	Blue  = iota
+	Black
+	Blue
 )
 
 func GetShirtsCloner() ShirtCloner {

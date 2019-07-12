@@ -10,9 +10,9 @@ type PaymentMethod interface {
 }
 
 const (
-	Cash       = iota
-	DebitCard  = iota
-	CreditCard = iota
+	Cash = iota
+	DebitCard
+	CreditCard
 )
 
 func GetPaymentMethod(m int) (PaymentMethod, error) {
