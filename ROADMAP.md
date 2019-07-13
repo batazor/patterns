@@ -5,7 +5,6 @@
   - [ ] Object Pool
 - Structural patterns
 - Behavioral patterns
-  - [ ] Command
   - [ ] Iterator
   - [ ] Mediator
   - [ ] Memento

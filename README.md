@@ -19,6 +19,7 @@
 - Behavioral patterns
   - [x] Strategy
   - [x] Chain od Responsibility
+  - [x] Command
 
 ### Link
 
