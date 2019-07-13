@@ -26,6 +26,10 @@
   - [x] Observer
   - [x] State
   - [x] Visitor
+- Concurrency Patterns
+  - [x] Barrier
+  - [x] Future
+  - [x] Pipeline
 
 ### Link
 
