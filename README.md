@@ -20,6 +20,9 @@
   - [x] Strategy
   - [x] Chain od Responsibility
   - [x] Command
+  - [x] Template method
+  - [x] Memento
+  - [x] Interpreter
 
 ### Link
 
