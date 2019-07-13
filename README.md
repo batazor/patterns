@@ -23,6 +23,9 @@
   - [x] Template method
   - [x] Memento
   - [x] Interpreter
+  - [x] Observer
+  - [x] State
+  - [x] Visitor
 
 ### Link
 

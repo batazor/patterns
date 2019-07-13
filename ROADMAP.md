@@ -7,9 +7,6 @@
 - Behavioral patterns
   - [ ] Iterator
   - [ ] Mediator
-  - [ ] Observer
-  - [ ] State
-  - [ ] Visitor
 - Synchronization Patterns
   - [ ] Condition Variable
   - [ ] Lock/Mutex
