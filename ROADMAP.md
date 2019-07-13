@@ -5,7 +5,6 @@
   - [ ] Object Pool
 - Structural patterns
 - Behavioral patterns
-  - [ ] Chain od Responsibility
   - [ ] Command
   - [ ] Iterator
   - [ ] Mediator

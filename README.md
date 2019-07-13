@@ -18,6 +18,7 @@
   - [x] Flyweight
 - Behavioral patterns
   - [x] Strategy
+  - [x] Chain od Responsibility
 
 ### Link
 
